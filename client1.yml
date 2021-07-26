@@ -1,3 +1,3 @@
 client1:
-  configValue: "这是配置中心中client1服务的配置信息"
+  configValue: "这是配置中心中client1服务的配置信息11"
   encrypt: '{cipher}f99002307973fa32e4e89eece04a7ef81c6c300453bde253a56c19584882d6f9'
