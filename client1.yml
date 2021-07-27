@@ -1,3 +1,3 @@
 client1:
-  configValue: "这是配置中心中client1服务的配置信息1"
+  configValue: "这是配置中心中client1服务的配置信息abc"
   encrypt: '{cipher}AQByDvr3qa6HsJKRfAJ9T6XjFxbuzXpa6+FG9+yqk6ChAF232p58meg2S96LwZSLA9wH4JRGF0dzH1FYD3s2LzF0PUB3KriHZOdaq1bv5x3DDqpfa4sqrwRW7eBSGM/IdYXiFdTqu2OKETi6Gdqo6Lb8QQ328a0DKopkJ/9jSwA8P3O+AwtxIvgQjIZw+mF4QNXcwYvEpWuH5xAXrxuhFGS5M/xRvGuzKAusEB9I4gI4zeGgrjwoFhTyeM9Aql/FBlRz33kZrIDByfAjIhmQ/4ZTAYvz8ZrQreZmZ2rGDnjTnC/7nauRrsMxJNwTgeuYdYu67F15Qm3h7KwjLIme9GP3S9mv7reJKOAk9pg/g86tsLraxd7Edi0/5THQq1lwuf8='
