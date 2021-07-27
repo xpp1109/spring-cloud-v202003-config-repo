@@ -1,1 +1,4 @@
-
+# feign开启熔断支持
+feign:
+  circuitbreaker:
+    enabled: true
