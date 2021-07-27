@@ -4,3 +4,7 @@ spring:
       - linux1:9092
       - linux2:9092
       - linux3:9092
+  boot:
+    admin:
+      client:
+        url: http://localhost:8080
