@@ -1,1 +1,6 @@
-
+spring:
+  kafka:
+    bootstrap-servers:
+      - linux1:9092
+      - linux2:9092
+      - linux3:9092
